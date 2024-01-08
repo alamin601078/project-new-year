@@ -85,8 +85,23 @@
     height: 600px;
     flex-shrink: 0;
 }
+.bannre-card img{
+    
+    display: flex;
+    width: 319.83px;
+    height: 464.662px;
+    padding: 0.008px 0px 0px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+.welcome-party-container{
+    display: flex;
+}
 .banner{
     display: left center;
+    padding-left: 125px;
 }
 .welcome-party{
     width: 642px;
