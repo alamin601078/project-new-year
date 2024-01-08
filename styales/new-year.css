@@ -39,14 +39,37 @@
 
 /*  hapy-new-year-discount*/
 
-
+.discount{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    
+}
+.holiday{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.categories{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
 .hapy-new-year-discount{
     background-image: url('../resources/New\ Year\ Photo.png');
-    text-align: center;
+    
     
 }
 .hapy-new-year-discount{
     width: 802.9px;
     height: 500px;
     flex-shrink: 0;
+    text-align: center;
+    
 }
