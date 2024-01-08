@@ -85,3 +85,114 @@
     height: 600px;
     flex-shrink: 0;
 }
+.banner{
+    display: left center;
+}
+.welcome-party{
+    width: 642px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+}
+.welcome-party-content{
+    width: 697px;
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; 
+}
+.welcome-party-join{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+/* new-park-hotel-container stayles */
+.new-park-hotel-container{
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    background-color: bisque;
+    padding-top: 100px;
+
+}
+.new-park-hotel{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+}
+.jone-now{
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+    padding: 16px 32px;
+    align-items: center;
+    align-items: flex-end;
+     gap: 10px;
+    position: absolute;
+    left: 45%;
+    right: 45%;
+        
+}
+/* comeing-soon-container styales */
+.comeing-soon-container{
+    display: flex;
+    gap: 115px;
+}
+.new-best-offer{
+   
+}
+.comeing-soon-imges{
+    background-image: url('../resources/Ellipse\ 1.png');
+}
+.comeing-soon-2024{
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+.come-soon-offer{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.comeing-soon-taite {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+.coming-soon-content{
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; 
+}
+.content-2024{
+    width: 276px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px; 
+}
