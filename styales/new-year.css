@@ -136,18 +136,32 @@
     width: 1320px;
     height: 482px;
     flex-shrink: 0;
-    background-color: bisque;
-    padding-top: 100px;
+    background-color: rgba(227, 211, 211, 0.91);
+    padding: 100px 385px 215px 385px;
 
 }
-.new-park-hotel{
-    color: #F00;
+.place,.date,.time{
+    display: flex;
+    align-items: center;
     text-align: center;
+     
+}
+
+.text-fast{
+    color: #F00;
+}
+.text-secand{
+    color: ;
+}
+.new-park-hotel{
+    text-align: center;
+   
     font-family: Inter;
     font-size: 32px;
-    font-weight: 600;
-    line-height: 56px;
-    text-transform: capitalize;
+    font-weight: 60px;
+    line-height: 5px;
+    text-transform: capitalize; 
+    
 }
 .jone-now{
     border-radius: 8px;
@@ -158,8 +172,7 @@
     align-items: flex-end;
      gap: 10px;
     position: absolute;
-    left: 45%;
-    right: 45%;
+   
         
 }
 /* comeing-soon-container styales */
