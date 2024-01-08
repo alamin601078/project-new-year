@@ -1,0 +1,52 @@
+/* banner stayles */
+.banner-greeting{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.banner-taitel{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    width: 632px;  
+}
+.header{
+    display: flex;
+    text-align: center;
+}
+
+
+
+/* header related styles */
+.header{
+    background-image: url('../resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+}
+    
+.header{
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+  
+}
+.header{
+    text-align: center;
+}
+
+/*  hapy-new-year-discount*/
+
+
+.hapy-new-year-discount{
+    background-image: url('../resources/New\ Year\ Photo.png');
+    text-align: center;
+    
+}
+.hapy-new-year-discount{
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+}
