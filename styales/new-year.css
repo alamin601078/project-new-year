@@ -398,3 +398,40 @@
     padding-top: 30px;
     background-color: #F00;
 }
+
+/* footer-contract-arya styales */
+
+.footer-contract-arya-container{
+    position: absolute;
+    flex-shrink: 0;
+    background: #4b3131;
+    width: 1600px;
+    height: 609px;
+    padding: 120px 140px 120px 140px;
+}
+.footer-contract,.footer-Unsubscribe-reserved{
+    display: flex;
+    color: #FFF;
+    font-size: 24px;
+}
+
+
+.footer-contract-icon{
+    padding-left: 520px;
+}
+
+ .contract-number-icon{
+    display: flex;
+    padding-left: 1070px;
+ }
+ .Unsubscribe{
+    padding-left: 1315px;
+ }
+.socil-icon{
+    padding: 20px;
+}
+.contract-website-icon img{
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+}
