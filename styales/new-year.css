@@ -413,7 +413,7 @@
 .footer-contract-arya-container{
     position: absolute;
     flex-shrink: 0;
-    background: #4b3131;
+    background-color: black;
     width: 1600px;
     height: 609px;
     padding: 120px 140px 120px 140px;
@@ -427,6 +427,7 @@
 
 .footer-contract-icon{
     padding-left: 520px;
+    gap: 20px;
 }
 
  .contract-number-icon{
@@ -436,11 +437,7 @@
  .Unsubscribe{
     padding-left: 1315px;
  }
-.socil-icon{
-    padding: 20px;
-}
-.contract-website-icon img{
-    width: 24px;
-    height: 24px;
-    flex-shrink: 0;
-}
+ .socilmideya-ico img{
+    gap: 10px;
+ }
+
