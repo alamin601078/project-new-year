@@ -179,13 +179,19 @@
 .comeing-soon-container{
     display: flex;
     gap: 115px;
+    padding-top: 50px;
 }
 .new-best-offer{
+    padding-left: 5px;
    
 }
-.comeing-soon-imges{
-    background-image: url('../resources/Ellipse\ 1.png');
+.comeing-soon-imges img{
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
 }
+
+
 .comeing-soon-2024{
     color: #F00;
     font-family: Inter;
@@ -199,7 +205,6 @@
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
-    margin-left: 0px;
     padding-left: 0px;
 }
 .comeing-soon-taite {
@@ -223,4 +228,114 @@
     font-size: 20px;
     font-weight: 400;
     line-height: 32px; 
+}
+.hapy-new-year-images img{
+    width: 140px;
+    height: 140px;
+    flex-shrink: 0;
+    padding-top: 50px;
+}
+
+/* holidays-container styales */
+.holidays-container{
+    width: 1600px;
+    height: 7335px;
+    background: #FFF;
+    justify-content: center;
+    align-items: center;
+}
+.Holidays-Sale-containear{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+}
+.functional{
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.holidays-seal{
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.holidays{
+    color: #F00;
+
+}
+.Holidays-Sale-content{
+    width: 1068px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.rectangorale img{
+    width: 429px;
+    height: 433px;
+    flex-shrink: 0;
+    border-radius: 16px 16px 0px 0px;
+    padding-right: 0%;
+    padding-left: 765px;
+}
+.ractangle-2 img{
+    width: 1320px;
+    height: 229px;
+    flex-shrink: 0;
+    border-radius: 16px 0px 16px 16px;
+    background: #F00;
+}
+.group-75 img{
+
+}
+.holidays-images{
+    display: contents;
+}
+
+/* Awesome-Portfolio-containear atyales */
+
+.Awesome-Portfolio-containear{
+    width: 1600px;
+    height: 7335px;
+    background: #FFF;
+}
+
+.best-gifts{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.Our-Awesome-Portfolio-taitel{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.awesome-content{
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.awesome-portfolio-images img{
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    gap: 24px;
 }
